@@ -1,0 +1,19 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/template/.vs/abp-quickstart
+/template/Abp.QuickStart.API/bin/Debug/netcoreapp3.1
+/template/Abp.QuickStart.API/obj
+/template/Abp.QuickStart.API/Properties
+/template/Abp.QuickStart.Application/bin/Debug/netstandard2.0
+/template/Abp.QuickStart.Application/obj
+/template/Abp.QuickStart.Application.Contracts/bin/Debug/netstandard2.0
+/template/Abp.QuickStart.Application.Contracts/obj
+/template/Abp.QuickStart.Domain/bin/Debug/netstandard2.0
+/template/Abp.QuickStart.Domain/obj
+/template/Abp.QuickStart.Domain.Shared/bin/Debug/netstandard2.0
+/template/Abp.QuickStart.Domain.Shared/obj
+/template/Abp.QuickStart.EntityFrameworkCore/bin/Debug/netstandard2.0
+/template/Abp.QuickStart.EntityFrameworkCore/obj
+/template/Abp.QuickStart.EntityFrameworkCore.DbMigrations/obj

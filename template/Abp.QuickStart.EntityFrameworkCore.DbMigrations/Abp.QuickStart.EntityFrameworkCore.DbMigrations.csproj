@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>Abp.QuickStart</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Abp.QuickStart.EntityFrameworkCore\Abp.QuickStart.EntityFrameworkCore.csproj" />
+  </ItemGroup>
+
+</Project>

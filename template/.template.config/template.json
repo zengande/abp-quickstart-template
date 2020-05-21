@@ -1,0 +1,13 @@
+{
+    "author": "Ande Zeng",
+    "classifications": ["Web/WebAPI"],
+    "name": "Abp Quick Start",
+    "identity": "abpquickstart",
+    "shortName": "abpqs",
+    "tags": {
+        "language": "C#",
+        "type": "project"
+    },
+    "sourceName": "Abp.QuickStart",
+    "preferNameDirectory": true
+}
